@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 30,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "1 complimentary fitness assessment"
+    ],
+    "description": "Our Basic Membership offers essential gym access, including cardio equipment, locker room facilities, and a complimentary fitness assessment. It's the perfect starting point for your fitness journey."
+  },
+  {
+    "id": 2,
+    "name": "Silver Membership",
+    "price": 50,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "2 complimentary fitness assessments"
+    ],
+    "description": "Upgrade to our Silver Membership for unlimited group fitness classes in addition to basic amenities. Enjoy cardio workouts and group classes with two complimentary fitness assessments."
+  },
+  {
+    "id": 3,
+    "name": "Gold Membership",
+    "price": 80,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "Personalized workout plan",
+      "4 complimentary fitness assessments"
+    ],
+    "description": "Our Gold Membership offers a premium experience, including personalized workout plans and unlimited group fitness classes. You'll also receive four complimentary fitness assessments to track your progress."
+  },
+  {
+    "id": 4,
+    "name": "Student Membership",
+    "price": 25,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Valid student ID required"
+    ],
+    "description": "Designed for students, our Student Membership provides gym access with a valid student ID. Enjoy cardio equipment and locker room amenities while staying within your budget."
+  },
+  {
+    "id": 5,
+    "name": "Family Membership",
+    "price": 120,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "Childcare services",
+      "4 complimentary fitness assessments"
+    ],
+    "description": "Our Family Membership is perfect for families seeking a healthy lifestyle. Access gym facilities, unlimited group fitness classes, childcare services, and four complimentary fitness assessments."
+  },
+  {
+    "id": 6,
+    "name": "Corporate Membership",
+    "price": 60,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Discounted rates for employees",
+      "2 complimentary fitness assessments"
+    ],
+    "description": "For corporate wellness, our Corporate Membership offers discounted rates for employees. Enjoy gym access, cardio equipment, locker rooms, and two complimentary fitness assessments."
+  },
+  {
+    "id": 7,
+    "name": "Senior Membership",
+    "price": 20,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Age 65+ required"
+    ],
+    "description": "Senior citizens aged 65+ can stay active with our Senior Membership, which provides gym access, cardio equipment, and locker room amenities at an affordable price."
+  },
+  {
+    "id": 8,
+    "name": "Premium Membership",
+    "price": 100,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "Personal trainer sessions",
+      "6 complimentary fitness assessments"
+    ],
+    "description": "Upgrade to our Premium Membership for personal trainer sessions, unlimited group fitness classes, and six complimentary fitness assessments. Elevate your fitness journey with us."
+  },
+  {
+    "id": 9,
+    "name": "Weekend Warrior",
+    "price": 40,
+    "duration": "per month",
+    "features": [
+      "Access on weekends only",
+      "Use of cardio equipment",
+      "Locker room access",
+      "2 complimentary fitness assessments"
+    ],
+    "description": "Our Weekend Warrior plan is designed for those with busy weekdays. Get access on weekends, cardio equipment, locker rooms, and two complimentary fitness assessments."
+  },
+  {
+    "id": 10,
+    "name": "Premium Plus Membership",
+    "price": 150,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "Personalized workout plan",
+      "8 complimentary fitness assessments",
+      "Access to spa and sauna"
+    ],
+    "description": "Experience the ultimate fitness journey with our Premium Plus Membership. Enjoy spa and sauna access, personalized workouts, unlimited group classes, and eight complimentary fitness assessments."
+  },
+  {
+    "id": 11,
+    "name": "One-Year Membership",
+    "price": 300,
+    "duration": "per year",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "12 complimentary fitness assessments"
+    ],
+    "description": "Commit to a year of fitness with our One-Year Membership. Enjoy full gym access, cardio equipment, locker rooms, and receive a total of 12 complimentary fitness assessments throughout the year."
+  },
+  {
+    "id": 12,
+    "name": "Couple's Membership",
+    "price": 100,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "2 complimentary fitness assessments"
+    ],
+    "description": "Share your fitness journey with a loved one through our Couple's Membership. Get access to gym facilities, cardio equipment, locker rooms, and enjoy unlimited group fitness classes together."
+  },
+  {
+    "id": 13,
+    "name": "VIP Membership",
+    "price": 200,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "Personal trainer sessions",
+      "8 complimentary fitness assessments",
+      "Access to spa and sauna",
+      "Exclusive VIP events"
+    ],
+    "description": "Experience the utmost luxury with our VIP Membership. Enjoy exclusive VIP events, personal trainer sessions, spa, sauna access, unlimited group classes, and eight complimentary fitness assessments."
+  },
+  {
+    "id": 14,
+    "name": "Day Pass",
+    "price": 10,
+    "duration": "per day",
+    "features": [
+      "Access to gym facilities for a day",
+      "Use of cardio equipment",
+      "Locker room access"
+    ],
+    "description": "Need a one-day fitness boost? Grab our Day Pass for access to gym facilities, cardio equipment, and locker room amenities for a full day of workouts."
+  },
+  {
+    "id": 15,
+    "name": "Punch Card",
+    "price": 100,
+    "duration": "for 10 visits",
+    "features": [
+      "Access to gym facilities for 10 visits",
+      "Use of cardio equipment",
+      "Locker room access"
+    ],
+    "description": "For occasional visits, our Punch Card offers access to gym facilities for 10 visits. Use cardio equipment and enjoy locker room access as you need it."
+  },
+  {
+    "id": 16,
+    "name": "Group Membership",
+    "price": 40,
+    "duration": "per person per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "4 complimentary fitness assessments"
+    ],
+    "description": "Join as a group and stay fit together with our Group Membership. Get access to gym facilities, cardio equipment, locker rooms, and unlimited group fitness classes."
+  },
+  {
+    "id": 17,
+    "name": "Student Summer Membership",
+    "price": 100,
+    "duration": "for 3 months",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Valid student ID required",
+      "3 months of access during the summer"
+    ],
+    "description": "Students can make the most of their summer break with our Student Summer Membership. Enjoy gym access, cardio equipment, and locker rooms for three months."
+  },
+  {
+    "id": 18,
+    "name": "Family Plus Membership",
+    "price": 150,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Unlimited group fitness classes",
+      "Childcare services",
+      "6 complimentary fitness assessments",
+      "Access to spa and sauna"
+    ],
+    "description": "Elevate family fitness with our Family Plus Membership. Access gym facilities, group classes, childcare services, spa, sauna, and receive six complimentary fitness assessments."
+  },
+  {
+    "id": 19,
+    "name": "Weekday Warrior",
+    "price": 50,
+    "duration": "per month",
+    "features": [
+      "Access on weekdays only",
+      "Use of cardio equipment",
+      "Locker room access",
+      "3 complimentary fitness assessments"
+    ],
+    "description": "Stay active during the weekdays with our Weekday Warrior plan. Enjoy gym access, cardio equipment, locker rooms, and three complimentary fitness assessments."
+  },
+  {
+    "id": 20,
+    "name": "Senior Plus Membership",
+    "price": 30,
+    "duration": "per month",
+    "features": [
+      "Access to gym facilities",
+      "Use of cardio equipment",
+      "Locker room access",
+      "Age 65+ required",
+      "Unlimited group fitness classes"
+    ],
+    "description": "Senior citizens aged 65+ can stay fit and socialize with our Senior Plus Membership. Access gym facilities, group classes, cardio equipment, and locker room amenities at an affordable rate."
+  }
+]
